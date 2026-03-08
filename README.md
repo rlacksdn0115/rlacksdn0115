@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=061144,e8002d&height=300&section=header&text=Kim%20ChanWoo&fontSize=80&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=061144,CC1E4A,FFC906&height=300&section=header&text=Kim%20ChanWoo&fontSize=80&fontColor=ffffff&animation=fadeIn" />
 
 <br>
 
