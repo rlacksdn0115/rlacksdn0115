@@ -1,22 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=223971,CC1E4A,FFC906&height=300&section=header&text=Kim%20ChanWoo&fontSize=80&fontColor=ffffff&animation=fadeIn&re_cache=20260308" />
-
-<br>
-
-### 🛠️ Stack
+### Stack
 ---
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-<br><br>
-
-### 🎨 Other Stack
+### Other Stack
 ---
 <img src="https://img.shields.io/badge/BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=white">
-<img src="https://img.shields.io/badge/FUSION%20360-EA2130?style=for-the-badge&logo=autodesk&logoColor=white">
-
-<br>
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 </div>
